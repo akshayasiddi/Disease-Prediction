@@ -19,6 +19,11 @@ https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning
 ```
 # Usage
 
+Make sure to install all the dependencies before running the program, by using the following command:
+```
+python install -r requirements.txt
+```
+
 For running the demo project run the following command:
 ```
 python main_code.py
